@@ -1,1 +1,1 @@
-Portfolio with nice CSS designing and attractive look.
+Portfolio designed with CSS,CSS gives attractive look.
