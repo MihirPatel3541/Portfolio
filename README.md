@@ -1,1 +1,1 @@
-Portfolio with nice CSS designing and attractive look.
+Complete responsive personal Portfolio using css,html,javascript.
